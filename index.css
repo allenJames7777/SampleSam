@@ -5,28 +5,47 @@ h1{
 
 .red{
     color:red;
+    font-size: larger;
 }
 .orange{
     color:orange;
+    font-size: larger;
 }
 .yellow{
     color:yellow;
+    font-size: larger;
 }
 .green{
     color:green;
+    font-size: larger;
 }
 .blue{
     color:blue;
+    font-size: larger;
 }
 .indigo{
     color:indigo;
+    font-size: larger;
 }
 .violet{
     color:violet;
+    font-size: larger;
 }
 
 h4{
     color:lightcoral;
     text-align:center;
 
+}
+h5{
+    color:mediumaquamarine;
+    font-size: larger;
+}
+.color{
+    color:mediumorchid;
+}
+p{
+    color:indianred;
+    font-size: larger;
+    font-size: larger;
 }
